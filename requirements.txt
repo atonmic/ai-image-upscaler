@@ -1,0 +1,7 @@
+gradio==4.27.0
+torch==1.13.1
+torchvision==0.14.1
+realesrgan
+basicsr==1.4.2
+numpy<2
+opencv-python
